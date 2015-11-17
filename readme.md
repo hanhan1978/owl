@@ -5,6 +5,7 @@ This software is released under the MIT License, see LICENSE.txt.
 
 ![screenshot](https://raw.githubusercontent.com/wiki/fortkle/owl/images/owl_screenshot.png)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Feature
 
 - Markdown

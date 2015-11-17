@@ -1,0 +1,7 @@
+{
+  "name": "Owl",
+  "description": "knowledge sharing tool",
+  "repository": "https://github.com/owl/owl",
+  "logo": "https://raw.githubusercontent.com/owl/owl/master/public/img/owl_logo.png",
+  "keywords": ["php", "markdown", "knowledge", "share", "wiki"]
+}
