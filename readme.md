@@ -3,9 +3,10 @@
 Owl is a simple team collaboration tool.  
 This software is released under the MIT License, see LICENSE.txt.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hanhan1978/owl/tree/feature/deploy-to-heroku)
+
 ![screenshot](https://raw.githubusercontent.com/wiki/fortkle/owl/images/owl_screenshot.png)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Feature
 
 - Markdown
