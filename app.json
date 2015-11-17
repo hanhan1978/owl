@@ -6,8 +6,5 @@
   "keywords": ["php", "markdown", "knowledge", "share", "wiki"],
   "env": {
     "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-php"
-  },
-  "scripts": {
-    "postdeploy": "php artisan migrate --seed --force && php artisan vendor:publish --provider='Owl\Providers\TwitterBootstrapServiceProvider'"
   }
 }
